@@ -1,0 +1,22 @@
+.booking .container {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.booking ul {
+  list-style: none;
+  padding: 0;
+}
+
+.booking li {
+  display: inline-block;
+}
+
+.booking__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  margin-bottom: 80px;
+  text-align: center;
+  text-transform: uppercase;
+}
